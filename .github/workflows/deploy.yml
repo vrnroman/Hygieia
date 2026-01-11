@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - road-rules-tutor-init
   workflow_dispatch:
 
 permissions:
